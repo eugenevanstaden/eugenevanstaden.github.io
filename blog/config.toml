@@ -1,0 +1,4 @@
+baseURL = 'https://eugenevanstaden.github.io/'
+languageCode = 'en-us'
+title = 'eugene van staden'
+theme = "chalk"
